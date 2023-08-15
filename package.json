@@ -1,0 +1,16 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "Testes E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Junior",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.10.0",
+    "faker": "^6.6.6"
+  }
+}

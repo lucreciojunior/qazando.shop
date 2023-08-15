@@ -1,0 +1,16 @@
+// - CHECKOUT - ACESSANDO PELA PAGINA DO CARRINHO
+// - REALIZADNO CHECKOUT COM SUCESSO (Billings Information registred with success!)
+// - CHECKOUT (O campo First Name deve ser prenchido)
+// - CHECKOUT (O campo Last Name deve ser prenchido
+// - CHECKOUT (O campo Company deve ser prenchido)
+// - CHECKOUT (O campo E-mail deve ser prenchido ou é inválido)
+// - CHECKOUT (E-MAIL INVALIDO)
+// - CHECKOUT (O campo Country deve ser prenchido)
+// - CHECKOUT (O campo City deve ser prenchido)
+// - CHECKOUT (O campo Zip Code deve ser prenchido)
+// - CHECKOUT (O campo Address deve ser prenchido)
+// - CHECKOUT (O campo Additional Notes deve ser prenchido)
+// - CHECKOUT (E-MAIL INVALIDO)
+// - CHECKOUT - PAGAMENTO (Direct Bank Transfer)
+// - CHECKOUT - PAGAMENTO (Mobile Banking)
+// - CHECKOUT - PAGAMENTO (Paypal)
